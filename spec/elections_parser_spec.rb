@@ -41,9 +41,9 @@ describe ElectionsParser do
     results= @parser.district_list_to_json(districtList[0])
     results = JSON.parse(results)
     results.class.should==Hash
-    results[:district].should=="1"
-#     results[chamber].should=="SENATE"
-#     results[votes].class.should==Array
+    results["district"].should=="1"
+	results["chamber"].should=="SENATE"
+	results["votes"].class.should==Array
   end
 
 end# of spec

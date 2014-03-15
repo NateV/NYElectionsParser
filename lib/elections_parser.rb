@@ -107,13 +107,14 @@ class ElectionsParser
       			party: rows[2][i],
       			vote_count: rows[3][i]}
     end
-    result[votes] = votes
+    result[:votes] = votes
     
     recap = []
     for i in 1..2
       recap << {candidate: rows[0][i] + " " + rows[1][i],
       			vote_count: rows[4][i]}
     end
+    result[:recap] = recap
     #debugger 
     result.to_json
   end# of #district_list_to_json
@@ -124,8 +125,8 @@ class ElectionsParser
 	districtList_JSON = districtList.map do |district|
 	  district_list_to_json(district)
 	end 
-	debugger
-	File.write @FILE_OUT, "It worked!" + Time.new.inspect    
+	#debugger
+	File.write @FILE_OUT, districtList_JSON 
   end# of #run!
 
 end
