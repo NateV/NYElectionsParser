@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="918" width="1512">
+	<text top="79" left="24" width="150" height="13" font="50">1st SENATE DISTRICT</text>
+
+	<text top="112" left="218" width="67" height="13" font="56">Bridget M.</text>
+	<text top="112" left="366" width="71" height="13" font="61">Kenneth P.</text>
+	<text top="112" left="514" width="71" height="13" font="66">Kenneth P.</text>
+	<text top="112" left="650" width="67" height="13" font="70">Bridget M.</text>
+	<text top="112" left="763" width="71" height="13" font="66">Kenneth P.</text>
+	<text top="112" left="1233" width="28" height="13" font="75">BVS</text>
+
+	<text top="129" left="24" width="47" height="13" font="79">County</text>
+	<text top="129" left="233" width="52" height="13" font="83">Fleming</text>
+	<text top="129" left="389" width="48" height="13" font="87">LaValle</text>
+	<text top="129" left="538" width="48" height="13" font="87">LaValle</text>
+	<text top="129" left="665" width="52" height="13" font="92">Fleming</text>
+	<text top="129" left="786" width="48" height="13" font="94">LaValle</text>
+	<text top="129" left="912" width="37" height="13" font="96">Blank</text>
+	<text top="129" left="1026" width="30" height="13" font="97">Void</text>
+	<text top="129" left="1092" width="67" height="13" font="104">Scattering</text>
+	<text top="129" left="1207" width="54" height="13" font="110">Subtotal</text>
+	<text top="129" left="1339" width="33" height="13" font="113">Total</text>
+
+	<text top="146" left="255" width="30" height="13" font="114">DEM</text>
+	<text top="146" left="409" width="28" height="13" font="115">REP</text>
+	<text top="146" left="555" width="30" height="13" font="1">CON</text>
+	<text top="146" left="684" width="33" height="13" font="116">WOR</text>
+	<text top="146" left="811" width="24" height="13" font="1">IND</text>
+
+	<text top="163" left="24" width="93" height="13" font="125">Part of Suffolk</text>
+	<text top="163" left="243" width="42" height="13" font="129">47,041</text>
+	<text top="163" left="395" width="42" height="13" font="131">61,309</text>
+	<text top="163" left="544" width="42" height="13" font="129">10,489</text>
+	<text top="163" left="683" width="34" height="13" font="134">4,260</text>
+	<text top="163" left="800" width="34" height="13" font="137">4,208</text>
+	<text top="163" left="908" width="42" height="13" font="129">12,762</text>
+	<text top="163" left="1041" width="15" height="13" font="2">74</text>
+	<text top="163" left="1143" width="15" height="13" font="2">35</text>
+	<text top="163" left="1220" width="42" height="13" font="129">12,871</text>
+	<text top="163" left="1322" width="49" height="13" font="143">140,178</text>
+
+	<text top="197" left="24" width="48" height="13" font="145">RECAP</text>
+	<text top="197" left="243" width="42" height="13" font="142">51,301</text>
+	<text top="197" left="395" width="42" height="13" font="149">76,006</text>
+	
+	<text top="231" left="24" width="154" height="13" font="157">2nd SENATE DISTRICT</text>
+	<text top="265" left="235" width="49" height="13" font="161">Errol D.</text>
+	<text top="265" left="389" width="48" height="13" font="165">John J.</text>
+	<text top="265" left="538" width="48" height="13" font="169">John J.</text>
+	<text top="265" left="669" width="48" height="13" font="165">John J.</text>
+	<text top="265" left="1130" width="28" height="13" font="75">BVS</text>
+	<text top="282" left="24" width="47" height="13" font="79">County</text>
+	<text top="282" left="215" width="70" height="13" font="176">Toulon, Jr.</text>
+	<text top="282" left="377" width="60" height="13" font="182">Flanagan</text>
+	<text top="282" left="526" width="60" height="13" font="182">Flanagan</text>
+	<text top="282" left="657" width="60" height="13" font="182">Flanagan</text>
+	<text top="282" left="797" width="37" height="13" font="96">Blank</text>
+	<text top="282" left="920" width="30" height="13" font="95">Void</text>
+	<text top="282" left="989" width="67" height="13" font="104">Scattering</text>
+	<text top="282" left="1104" width="54" height="13" font="195">Subtotal</text>
+	<text top="282" left="1229" width="33" height="13" font="113">Total</text>
+	<text top="299" left="255" width="30" height="13" font="114">DEM</text>
+	<text top="299" left="409" width="28" height="13" font="115">REP</text>
+	<text top="299" left="555" width="30" height="13" font="1">CON</text>
+	<text top="299" left="693" width="24" height="13" font="1">IND</text>
+	<text top="316" left="24" width="93" height="13" font="125">Part of Suffolk</text>
+	<text top="316" left="243" width="42" height="13" font="129">38,482</text>
+	<text top="316" left="395" width="42" height="13" font="131">64,998</text>
+	<text top="316" left="544" width="42" height="13" font="129">10,667</text>
+	<text top="316" left="683" width="34" height="13" font="134">4,339</text>
+	<text top="316" left="793" width="42" height="13" font="129">16,185</text>
+	<text top="316" left="934" width="15" height="13" font="2">68</text>
+	<text top="316" left="1041" width="15" height="13" font="2">75</text>
+	<text top="316" left="1117" width="42" height="13" font="129">16,328</text>
+	<text top="316" left="1212" width="49" height="13" font="199">134,814</text>
+	<text top="349" left="24" width="48" height="13" font="145">RECAP</text>
+	<text top="349" left="243" width="42" height="13" font="142">38,482</text>
+	<text top="349" left="395" width="42" height="13" font="149">80,004</text>
+</page>
+</pdf2html>

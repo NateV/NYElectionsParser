@@ -1,0 +1,1 @@
+ElectionsParser.new(ARGV).run!
