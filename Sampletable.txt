@@ -1,0 +1,11 @@
+["1st SENATE DISTRICT", "Bridget M.", "Kenneth P.", "Kenneth P.", "Bridget M.", "Kenneth P.",                               "BVS", 
+"County",               "Fleming",    "LaValle",    "LaValle",    "Fleming",     "LaValle",  "Blank", "Void", "Scattering", "Subtotal", "Total", 
+                        "DEM",        "REP",        "CON",        "WOR",         "IND",      
+"Part of Suffolk",      "47,041",     "61,309",     "10,489",     "4,260",       "4,208",    "12,762", "74",  "35",         "12,871",   "140,178", 
+"RECAP",                "51,301",     "76,006"], 
+
+["2nd SENATE DISTRICT", "Errol D.", "John J.", "John J.", "John J.", "BVS", 
+"County", "Toulon, Jr.", "Flanagan", "Flanagan", "Flanagan", "Blank", "Void", "Scattering", "Subtotal", "Total", 
+          "DEM", "REP", "CON", "IND", 
+"Part of Suffolk", "38,482", "64,998", "10,667", "4,339", "16,185", "68", "75", "16,328", "134,814", 
+"RECAP", "38,482", "80,004"]
