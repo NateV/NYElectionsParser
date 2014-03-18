@@ -3170,7 +3170,7 @@
 	<fontspec id="1443" size="11" family="Helvetica" color="#000000"/>
 	<fontspec id="1444" size="11" family="Helvetica" color="#000000"/>
 <text top="48" left="24" width="159" height="13" font="1325">43rd SENATE DISTRICT</text>
-<text top="65" left="24" width="47" height="13" font="79">County</text>
+<comment by="Nate V."> "I removed a typo - an extra text node with the content 'County'" </comment>
 <text top="82" left="246" width="39" height="13" font="1326">Robin</text>
 <text top="82" left="362" width="75" height="13" font="1330">Kathleen A.</text>
 <text top="82" left="511" width="75" height="13" font="1335">Kathleen A.</text>

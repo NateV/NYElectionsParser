@@ -79,5 +79,76 @@
 	<text top="349" left="24" width="48" height="13" font="145">RECAP</text>
 	<text top="349" left="243" width="42" height="13" font="142">38,482</text>
 	<text top="349" left="395" width="42" height="13" font="149">80,004</text>
+	
+	<text top="421" left="24" width="157" height="13" font="761">61st SENATE DISTRICT</text>
+	<text top="455" left="226" width="59" height="13" font="1916">Justin M.</text>
+	<text top="455" left="370" width="67" height="13" font="1917">Michael H.</text>
+	<text top="455" left="518" width="67" height="13" font="1918">Michael H.</text>
+	<text top="455" left="658" width="59" height="13" font="1920">Justin M.</text>
+	<text top="455" left="767" width="67" height="13" font="1921">Michael H.</text>
+	<text top="455" left="1233" width="28" height="13" font="75">BVS</text>
+	<text top="472" left="24" width="47" height="13" font="79">County</text>
+	<text top="472" left="235" width="50" height="13" font="1923">Rooney</text>
+	<text top="472" left="354" width="82" height="13" font="1930">Ranzenhofer</text>
+	<text top="472" left="503" width="82" height="13" font="1936">Ranzenhofer</text>
+	<text top="472" left="667" width="50" height="13" font="1937">Rooney</text>
+	<text top="472" left="752" width="82" height="13" font="1936">Ranzenhofer</text>
+	<text top="472" left="912" width="37" height="13" font="96">Blank</text>
+	<text top="472" left="1026" width="30" height="13" font="97">Void</text>
+	<text top="472" left="1092" width="67" height="13" font="104">Scattering</text>
+	<text top="472" left="1207" width="54" height="13" font="110">Subtotal</text>
+	<text top="472" left="1339" width="33" height="13" font="113">Total</text>
+	<text top="489" left="255" width="30" height="13" font="114">DEM</text>
+	<text top="489" left="409" width="28" height="13" font="115">REP</text>
+	<text top="489" left="555" width="30" height="13" font="1">CON</text>
+	<text top="489" left="684" width="33" height="13" font="116">WOR</text>
+	<text top="489" left="811" width="24" height="13" font="1">IND</text>
+	<text top="506" left="24" width="57" height="13" font="1940">Genesee</text>
+	<text top="506" left="251" width="34" height="13" font="1092">5,926</text>
+	<text top="506" left="395" width="42" height="13" font="131">13,368</text>
+	<text top="506" left="551" width="34" height="13" font="134">1,977</text>
+	<text top="506" left="694" width="23" height="13" font="2">720</text>
+	<text top="506" left="812" width="23" height="13" font="2">663</text>
+	<text top="506" left="915" width="34" height="13" font="137">2,290</text>
+	<text top="506" left="1048" width="8" height="13" font="2">9</text>
+	<text top="506" left="1143" width="15" height="13" font="2">10</text>
+	<text top="506" left="1228" width="34" height="13" font="130">2,309</text>
+	<text top="506" left="1330" width="42" height="13" font="142">24,963</text>
+	<text top="523" left="24" width="73" height="13" font="1890">Part of Erie</text>
+	<text top="523" left="243" width="42" height="13" font="129">25,174</text>
+	<text top="523" left="395" width="42" height="13" font="131">39,380</text>
+	<text top="523" left="551" width="34" height="13" font="134">4,836</text>
+	<text top="523" left="683" width="34" height="13" font="134">2,079</text>
+	<text top="523" left="800" width="34" height="13" font="137">2,582</text>
+	<text top="523" left="915" width="34" height="13" font="137">5,626</text>
+	<text top="523" left="1048" width="8" height="13" font="2">0</text>
+	<text top="523" left="1151" width="8" height="13" font="2">0</text>
+	<text top="523" left="1228" width="34" height="13" font="130">5,626</text>
+	<text top="523" left="1330" width="42" height="13" font="142">79,677</text>
+	<text top="539" left="24" width="96" height="13" font="1768">Part of Monroe</text>
+	<text top="539" left="243" width="42" height="13" font="129">15,890</text>
+	<text top="539" left="403" width="34" height="13" font="130">8,118</text>
+	<text top="539" left="551" width="34" height="13" font="134">1,679</text>
+	<text top="539" left="683" width="34" height="13" font="134">1,100</text>
+	<text top="539" left="812" width="23" height="13" font="2">500</text>
+	<text top="539" left="915" width="34" height="13" font="137">3,866</text>
+	<text top="539" left="1033" width="23" height="13" font="2">122</text>
+	<text top="539" left="1143" width="15" height="13" font="2">21</text>
+	<text top="539" left="1228" width="34" height="13" font="130">4,009</text>
+	<text top="539" left="1330" width="42" height="13" font="142">31,296</text>
+	<text top="557" left="129" width="33" height="13" font="332">Total</text>
+	<text top="557" left="243" width="42" height="13" font="142">46,990</text>
+	<text top="557" left="395" width="42" height="13" font="149">60,866</text>
+	<text top="557" left="551" width="34" height="13" font="335">8,492</text>
+	<text top="557" left="683" width="34" height="13" font="335">3,899</text>
+	<text top="557" left="800" width="34" height="13" font="988">3,745</text>
+	<text top="557" left="908" width="42" height="13" font="142">11,782</text>
+	<text top="557" left="1033" width="23" height="13" font="1">131</text>
+	<text top="557" left="1143" width="15" height="13" font="1">31</text>
+	<text top="557" left="1220" width="42" height="13" font="142">11,944</text>
+	<text top="557" left="1322" width="49" height="13" font="143">135,936</text>
+	<text top="591" left="24" width="48" height="13" font="145">RECAP</text>
+	<text top="591" left="243" width="42" height="13" font="142">50,889</text>
+	<text top="591" left="395" width="42" height="13" font="149">73,103</text>
 </page>
 </pdf2html>

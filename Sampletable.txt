@@ -9,3 +9,12 @@
           "DEM", "REP", "CON", "IND", 
 "Part of Suffolk", "38,482", "64,998", "10,667", "4,339", "16,185", "68", "75", "16,328", "134,814", 
 "RECAP", "38,482", "80,004"]
+
+["61st SENATE DISTRICT", "Justin M.", "Michael H.", "Michael H.", "Justin M.", "Michael H.", "BVS", 
+"County", "Rooney", "Ranzenhofer", "Ranzenhofer", "Rooney", "Ranzenhofer", "Blank", "Void", "Scattering", "Subtotal", "Total", 
+"DEM", "REP", "CON", "WOR", "IND", 
+"Genesee", "5926", "13368", "1977", "720", "663", "2290", "9", "10", "2309", "24963", 
+"Part of Erie", "25174", "39380", "4836", "2079", "2582", "5626", "0", "0", "5626", "79677", 
+"Part of Monroe", "15890", "8118", "1679", "1100", "500", "3866", "122", "21", "4009", "31296", 
+"Total", "46990", "60866", "8492", "3899", "3745", "11782", "131", "31", "11944", "135936", 
+"RECAP", "50889", "73103"]

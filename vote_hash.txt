@@ -1,0 +1,10 @@
+{candidate: "Jose M. Serrano",
+	party: "DEM",
+	county_votes: [{
+					county: "Part of Bronx",
+					count: "40761"},
+					county: "Part of New York",
+					count: "30130""]
+	total_votes: 70891}, 
+
+ 

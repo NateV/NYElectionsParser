@@ -1,0 +1,9 @@
+Running app 
+-file_to_xml 
+-xml_to_list 
+-clean_list 
+-break_list_into_districts 
+-break_districts_into_rows 
+-align_rows_of_each_district 
+-transform_rows_of_each_district
+ Completed. Successfully?

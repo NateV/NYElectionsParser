@@ -1,0 +1,7983 @@
+[
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "1",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Bridget M. Fleming",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "47041"
+          }
+        ]
+      },
+      {
+        "candidate": "Kenneth P. LaValle",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "61309"
+          }
+        ]
+      },
+      {
+        "candidate": "Kenneth P. LaValle",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "10489"
+          }
+        ]
+      },
+      {
+        "candidate": "Bridget M. Fleming",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "4260"
+          }
+        ]
+      },
+      {
+        "candidate": "Kenneth P. LaValle",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "4208"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "12762"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "74"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "35"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "12871"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "140178"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "2",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Errol D. Toulon, Jr.",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "38482"
+          }
+        ]
+      },
+      {
+        "candidate": "John J. Flanagan",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "64998"
+          }
+        ]
+      },
+      {
+        "candidate": "John J. Flanagan",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "10667"
+          }
+        ]
+      },
+      {
+        "candidate": "John J. Flanagan",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "4339"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "16185"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "68"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "75"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "16328"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "134814"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "3",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Francis T. Genco",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "41372"
+          }
+        ]
+      },
+      {
+        "candidate": "Lee M. Zeldin",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "40908"
+          }
+        ]
+      },
+      {
+        "candidate": "Lee M. Zeldin",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "8119"
+          }
+        ]
+      },
+      {
+        "candidate": "Lee M. Zeldin",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "3030"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "15353"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "45"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "42"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "15440"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "108869"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "4",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Ricardo Montano",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "45766"
+          }
+        ]
+      },
+      {
+        "candidate": "Philip M. Boyle",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "43859"
+          }
+        ]
+      },
+      {
+        "candidate": "Philip M. Boyle",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "8072"
+          }
+        ]
+      },
+      {
+        "candidate": "Ricardo Montano",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "3457"
+          }
+        ]
+      },
+      {
+        "candidate": "Philip M. Boyle",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "2584"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "15079"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "50"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "29"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "15158"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "118896"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "5",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "David B. Wright",
+        "party": "DEM",
+        "total_votes": "49647",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "25750"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "23897"
+          }
+        ]
+      },
+      {
+        "candidate": "Carl L. Marcellino",
+        "party": "REP",
+        "total_votes": "62124",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "32303"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "29821"
+          }
+        ]
+      },
+      {
+        "candidate": "Carl L. Marcellino",
+        "party": "CON",
+        "total_votes": "7951",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "3389"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "4562"
+          }
+        ]
+      },
+      {
+        "candidate": "Carl L. Marcellino",
+        "party": "IND",
+        "total_votes": "3345",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "1301"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "2044"
+          }
+        ]
+      },
+      {
+        "candidate": "Carl L. Marcellino",
+        "party": "TRP",
+        "total_votes": "527",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "227"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "300"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "17388",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "9767"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "7621"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "89",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "64"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "25"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "42",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "23"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "19"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "17519",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "9854"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "7665"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "141113",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "72824"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "68289"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "6",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Ryan E. Cronin",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "51355"
+          }
+        ]
+      },
+      {
+        "candidate": "Kemp Hannon",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "49998"
+          }
+        ]
+      },
+      {
+        "candidate": "Kemp Hannon",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "6526"
+          }
+        ]
+      },
+      {
+        "candidate": "Ryan E. Cronin",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "3027"
+          }
+        ]
+      },
+      {
+        "candidate": "Kemp Hannon",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "1987"
+          }
+        ]
+      },
+      {
+        "candidate": "Kemp Hannon",
+        "party": "TRP",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "332"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "15045"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "137"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "25"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "15207"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "128432"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "7",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Daniel S. Ross",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "51419"
+          }
+        ]
+      },
+      {
+        "candidate": "Jack M. Martins",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "49647"
+          }
+        ]
+      },
+      {
+        "candidate": "Jack M. Martins",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "5837"
+          }
+        ]
+      },
+      {
+        "candidate": "Daniel S. Ross",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "2568"
+          }
+        ]
+      },
+      {
+        "candidate": "Jack M. Martins",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "2173"
+          }
+        ]
+      },
+      {
+        "candidate": "Jack M. Martins",
+        "party": "TRP",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "382"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "17930"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "121"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "20"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "18071"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "130097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "8",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Carol A. Gordon",
+        "party": "DEM",
+        "total_votes": "47393",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "35082"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "12311"
+          }
+        ]
+      },
+      {
+        "candidate": "Charles J. Fuschillo, Jr.",
+        "party": "REP",
+        "total_votes": "57648",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "49110"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "8538"
+          }
+        ]
+      },
+      {
+        "candidate": "Charles J. Fuschillo, Jr.",
+        "party": "CON",
+        "total_votes": "7443",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "5894"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "1549"
+          }
+        ]
+      },
+      {
+        "candidate": "Charles J. Fuschillo, Jr.",
+        "party": "IND",
+        "total_votes": "3147",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "2511"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "636"
+          }
+        ]
+      },
+      {
+        "candidate": "Charles J. Fuschillo, Jr.",
+        "party": "TRP",
+        "total_votes": "470",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "376"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "94"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "14885",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "11293"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "3592"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "188",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "163"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "25"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "20",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "13"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "7"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "15093",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "11469"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "3624"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "131194",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "104442"
+          },
+          {
+            "county": "Part of Suffolk",
+            "vote_count": "26752"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "9",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Thomas H. Feffer",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "44646"
+          }
+        ]
+      },
+      {
+        "candidate": "Dean G. Skelos",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "59603"
+          }
+        ]
+      },
+      {
+        "candidate": "Dean G. Skelos",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "6070"
+          }
+        ]
+      },
+      {
+        "candidate": "Dean G. Skelos",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "2675"
+          }
+        ]
+      },
+      {
+        "candidate": "Dean G. Skelos",
+        "party": "TRP",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "468"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "19415"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "159"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "29"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "19603"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Nassau",
+            "vote_count": "133065"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "10",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "James Sanders, Jr.",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "67474"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "21529"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "93"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "21622"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "89096"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "11",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Tony Avella",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "61007"
+          }
+        ]
+      },
+      {
+        "candidate": "Joseph R. Concannon",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "21227"
+          }
+        ]
+      },
+      {
+        "candidate": "Joseph R. Concannon",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "2323"
+          }
+        ]
+      },
+      {
+        "candidate": "Tony Avella",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "2298"
+          }
+        ]
+      },
+      {
+        "candidate": "Tony Avella",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "1471"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "10770"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "46"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "10816"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "99142"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "12",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Michael N. Gianaris",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "58576"
+          }
+        ]
+      },
+      {
+        "candidate": "Aurelio A. Arcabascio",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "8772"
+          }
+        ]
+      },
+      {
+        "candidate": "Aurelio A. Arcabascio",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "1003"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael N. Gianaris",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "3267"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "11792"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "43"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "11835"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "83453"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "13",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Jose R. Peralta",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "47855"
+          }
+        ]
+      },
+      {
+        "candidate": "Jose R. Peralta",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "2038"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "13699"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "83"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "13782"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "63675"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "14",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Malcolm A. Smith",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "84521"
+          }
+        ]
+      },
+      {
+        "candidate": "Malcolm A. Smith",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "1898"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "18328"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "102"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "18430"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "104849"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "15",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Joseph P. Addabbo, Jr.",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "40456"
+          }
+        ]
+      },
+      {
+        "candidate": "Eric A. Ulrich",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "26954"
+          }
+        ]
+      },
+      {
+        "candidate": "Eric A. Ulrich",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "2917"
+          }
+        ]
+      },
+      {
+        "candidate": "Joseph P. Addabbo, Jr.",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "1734"
+          }
+        ]
+      },
+      {
+        "candidate": "Eric A. Ulrich",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "1165"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "11905"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "52"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "11957"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "85183"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "16",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Toby Ann Stavisky",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "41920"
+          }
+        ]
+      },
+      {
+        "candidate": "J. D. Kim",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "12424"
+          }
+        ]
+      },
+      {
+        "candidate": "J. D. Kim",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "1083"
+          }
+        ]
+      },
+      {
+        "candidate": "Toby Ann Stavisky",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "1338"
+          }
+        ]
+      },
+      {
+        "candidate": "Toby Ann Stavisky",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "722"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "12296"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "48"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "12344"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Queens",
+            "vote_count": "69831"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "17",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Simcha Felder",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "32759"
+          }
+        ]
+      },
+      {
+        "candidate": "David Storobin",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "19338"
+          }
+        ]
+      },
+      {
+        "candidate": "Simcha Felder",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "6135"
+          }
+        ]
+      },
+      {
+        "candidate": "Abraham Tischler",
+        "party": "SCP",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "528"
+          }
+        ]
+      },
+      {
+        "candidate": "Simcha Felder",
+        "party": "TCN",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "372"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "7947"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "155"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "8102"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "67234"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "18",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Martin Malave Dilan",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "69749"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael E. Freeman-Saulsberre",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "3195"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael E. Freeman-Saulsberre",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "792"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "13716"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "101"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "13817"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "87553"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "19",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "John L. Sampson",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "77618"
+          }
+        ]
+      },
+      {
+        "candidate": "Jane Neal",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "7226"
+          }
+        ]
+      },
+      {
+        "candidate": "Elias J. Weir",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "1196"
+          }
+        ]
+      },
+      {
+        "candidate": "John L. Sampson",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "1356"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "13131"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "23"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "13154"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "100550"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "20",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Eric Adams",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "77335"
+          }
+        ]
+      },
+      {
+        "candidate": "Rose Laney",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "2683"
+          }
+        ]
+      },
+      {
+        "candidate": "Brian Kelly",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "938"
+          }
+        ]
+      },
+      {
+        "candidate": "Eric Adams",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "3775"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "11113"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "38"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "11151"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "95882"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "21",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Kevin S. Parker",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "89961"
+          }
+        ]
+      },
+      {
+        "candidate": "Mindy Meyer",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "2733"
+          }
+        ]
+      },
+      {
+        "candidate": "Kevin S. Parker",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "5349"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "13640"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "60"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "13700"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "111743"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "22",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Andrew S. Gounardes",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "26525"
+          }
+        ]
+      },
+      {
+        "candidate": "Martin J. Golden",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "32774"
+          }
+        ]
+      },
+      {
+        "candidate": "Martin J. Golden",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "4178"
+          }
+        ]
+      },
+      {
+        "candidate": "Andrew S. Gounardes",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "1718"
+          }
+        ]
+      },
+      {
+        "candidate": "Martin J. Golden",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "1632"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "7573"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "51"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "7624"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "74451"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "23",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Diane J. Savino",
+        "party": "DEM",
+        "total_votes": "47488",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "16830"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "30658"
+          }
+        ]
+      },
+      {
+        "candidate": "Lisa Grey",
+        "party": "REP",
+        "total_votes": "13583",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "7740"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "5843"
+          }
+        ]
+      },
+      {
+        "candidate": "Lisa Grey",
+        "party": "CON",
+        "total_votes": "1548",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "628"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "920"
+          }
+        ]
+      },
+      {
+        "candidate": "Diane J. Savino",
+        "party": "WOR",
+        "total_votes": "2126",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "734"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "1392"
+          }
+        ]
+      },
+      {
+        "candidate": "Diane J. Savino",
+        "party": "IND",
+        "total_votes": "941",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "345"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "596"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "10998",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "7710"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "3288"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "0",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "44",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "19"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "25"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "11042",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "7729"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "3313"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "76728",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "34006"
+          },
+          {
+            "county": "Part of Richmond",
+            "vote_count": "42722"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "24",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Gary W. Carsel",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "25561"
+          }
+        ]
+      },
+      {
+        "candidate": "Andrew J. Lanza",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "67731"
+          }
+        ]
+      },
+      {
+        "candidate": "Andrew J. Lanza",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "7697"
+          }
+        ]
+      },
+      {
+        "candidate": "Gary W. Carsel",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "1332"
+          }
+        ]
+      },
+      {
+        "candidate": "Andrew J. Lanza",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "2990"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "6236"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "75"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "6311"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Richmond",
+            "vote_count": "111622"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "25",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Velmanette Montgomery",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "96423"
+          }
+        ]
+      },
+      {
+        "candidate": "John A. Jasilli",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "2501"
+          }
+        ]
+      },
+      {
+        "candidate": "John A. Jasilli",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "443"
+          }
+        ]
+      },
+      {
+        "candidate": "Velmanette Montgomery",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "6517"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "14903"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "44"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "14947"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "120831"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "26",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Daniel Squadron",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "*"
+          }
+        ]
+      },
+      {
+        "candidate": "Jacqueline Haro",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "27002"
+          }
+        ]
+      },
+      {
+        "candidate": "Daniel Squadron",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "3898"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "2926"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "4624"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "50"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Kings",
+            "vote_count": "4674"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "27",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Brad M. Hoylman",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "87508"
+          }
+        ]
+      },
+      {
+        "candidate": "Brad M. Hoylman",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "6061"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "32334"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "206"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "32540"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "126109"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "28",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Liz Krueger",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "81038"
+          }
+        ]
+      },
+      {
+        "candidate": "David Paul Garland",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "28159"
+          }
+        ]
+      },
+      {
+        "candidate": "Liz Krueger",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "2465"
+          }
+        ]
+      },
+      {
+        "candidate": "David Paul Garland",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "1281"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "13600"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "37"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "13637"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "126580"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "29",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Jose M. Serrano",
+        "party": "DEM",
+        "total_votes": "70891",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "40761"
+          },
+          {
+            "county": "Part of New York",
+            "vote_count": "30130"
+          }
+        ]
+      },
+      {
+        "candidate": "Robert Goodman",
+        "party": "CON",
+        "total_votes": "3382",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "513"
+          },
+          {
+            "county": "Part of New York",
+            "vote_count": "2869"
+          }
+        ]
+      },
+      {
+        "candidate": "Jose M. Serrano",
+        "party": "WOR",
+        "total_votes": "1759",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "555"
+          },
+          {
+            "county": "Part of New York",
+            "vote_count": "1204"
+          }
+        ]
+      },
+      {
+        "candidate": "Thomas Siracuse",
+        "party": "GRN",
+        "total_votes": "1245",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "180"
+          },
+          {
+            "county": "Part of New York",
+            "vote_count": "1065"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "16609",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "7357"
+          },
+          {
+            "county": "Part of New York",
+            "vote_count": "9252"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "0",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of New York",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "31",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "7"
+          },
+          {
+            "county": "Part of New York",
+            "vote_count": "24"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "16640",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "7364"
+          },
+          {
+            "county": "Part of New York",
+            "vote_count": "9276"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "93917",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "49373"
+          },
+          {
+            "county": "Part of New York",
+            "vote_count": "44544"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "30",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Bill Perkins",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "94487"
+          }
+        ]
+      },
+      {
+        "candidate": "Bill Perkins",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "3651"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "25521"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "141"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "25662"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "123800"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "31",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Adriano Espaillat",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "85162"
+          }
+        ]
+      },
+      {
+        "candidate": "Martin Chicon",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "8190"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "18031"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "112"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "18143"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of New York",
+            "vote_count": "111495"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "32",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Ruben M. Diaz",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "70788"
+          }
+        ]
+      },
+      {
+        "candidate": "Ruben M. Diaz",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "1565"
+          }
+        ]
+      },
+      {
+        "candidate": "Ruben M. Diaz",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "597"
+          }
+        ]
+      },
+      {
+        "candidate": "David M. Johnson",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "2188"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "11758"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "18"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "11776"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "86914"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "33",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "J. Gustavo Rivera",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "56222"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael E. Walters",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "1884"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael E. Walters",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "412"
+          }
+        ]
+      },
+      {
+        "candidate": "J. Gustavo Rivera",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "945"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "10017"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "15"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "10032"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "69495"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "34",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Jeffrey D. Klein",
+        "party": "DEM",
+        "total_votes": "62168",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "57772"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "4396"
+          }
+        ]
+      },
+      {
+        "candidate": "Jeffrey D. Klein",
+        "party": "REP",
+        "total_votes": "15360",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "12701"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "2659"
+          }
+        ]
+      },
+      {
+        "candidate": "Elizabeth Perri",
+        "party": "CON",
+        "total_votes": "3940",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "3460"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "480"
+          }
+        ]
+      },
+      {
+        "candidate": "Jeffrey D. Klein",
+        "party": "WOR",
+        "total_votes": "2099",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "1927"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "172"
+          }
+        ]
+      },
+      {
+        "candidate": "Jeffrey D. Klein",
+        "party": "IND",
+        "total_votes": "795",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "642"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "153"
+          }
+        ]
+      },
+      {
+        "candidate": "Carl Lundgren",
+        "party": "GRN",
+        "total_votes": "1348",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "1194"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "154"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "10857",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "10061"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "796"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "0",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "44",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "42"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "2"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "10901",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "10103"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "798"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "96611",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "87799"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "8812"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "35",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Andrea Stewart-Cousins",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "77012"
+          }
+        ]
+      },
+      {
+        "candidate": "Andrea Stewart-Cousins",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "4044"
+          }
+        ]
+      },
+      {
+        "candidate": "Andrea Stewart-Cousins",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "3124"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "30924"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "386"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "31310"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "115490"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "36",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Ruth H. Thompson",
+        "party": "DEM",
+        "total_votes": "86733",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "67613"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "19120"
+          }
+        ]
+      },
+      {
+        "candidate": "Robert L. Diamond",
+        "party": "CON",
+        "total_votes": "2020",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "1404"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "616"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "12877",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "9826"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "3051"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "0",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "22",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "17"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "5"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "12899",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "9843"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "3056"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "101652",
+        "county_votes": [
+          {
+            "county": "Part of Bronx",
+            "vote_count": "78860"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "22792"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "37",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "George S. Latimer",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "61010"
+          }
+        ]
+      },
+      {
+        "candidate": "Bob Cohen",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "48125"
+          }
+        ]
+      },
+      {
+        "candidate": "Bob Cohen",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "4522"
+          }
+        ]
+      },
+      {
+        "candidate": "George S. Latimer",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "3226"
+          }
+        ]
+      },
+      {
+        "candidate": "Bob Cohen",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "1927"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "11924"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "40"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "11964"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Westchester",
+            "vote_count": "130774"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "38",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "David Carlucci",
+        "party": "DEM",
+        "total_votes": "68524",
+        "county_votes": [
+          {
+            "county": "Part of Rockland",
+            "vote_count": "60392"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "8132"
+          }
+        ]
+      },
+      {
+        "candidate": "Janis A. Castaldi",
+        "party": "REP",
+        "total_votes": "31460",
+        "county_votes": [
+          {
+            "county": "Part of Rockland",
+            "vote_count": "27500"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "3960"
+          }
+        ]
+      },
+      {
+        "candidate": "David Carlucci",
+        "party": "WOR",
+        "total_votes": "4087",
+        "county_votes": [
+          {
+            "county": "Part of Rockland",
+            "vote_count": "3628"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "459"
+          }
+        ]
+      },
+      {
+        "candidate": "David Carlucci",
+        "party": "IND",
+        "total_votes": "2817",
+        "county_votes": [
+          {
+            "county": "Part of Rockland",
+            "vote_count": "2592"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "225"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "12148",
+        "county_votes": [
+          {
+            "county": "Part of Rockland",
+            "vote_count": "10381"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "1767"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "77",
+        "county_votes": [
+          {
+            "county": "Part of Rockland",
+            "vote_count": "77"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "368",
+        "county_votes": [
+          {
+            "county": "Part of Rockland",
+            "vote_count": "364"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "4"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "12593",
+        "county_votes": [
+          {
+            "county": "Part of Rockland",
+            "vote_count": "10822"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "1771"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "119481",
+        "county_votes": [
+          {
+            "county": "Part of Rockland",
+            "vote_count": "104934"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "14547"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "39",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Christopher W. Eachus",
+        "party": "DEM",
+        "total_votes": "46126",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "34395"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "9026"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "2705"
+          }
+        ]
+      },
+      {
+        "candidate": "William J. Larkin, Jr.",
+        "party": "REP",
+        "total_votes": "45942",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "35470"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "6903"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "3569"
+          }
+        ]
+      },
+      {
+        "candidate": "William J. Larkin, Jr.",
+        "party": "CON",
+        "total_votes": "6722",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "5157"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "1190"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "375"
+          }
+        ]
+      },
+      {
+        "candidate": "Christopher W. Eachus",
+        "party": "WOR",
+        "total_votes": "3620",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "2797"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "527"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "296"
+          }
+        ]
+      },
+      {
+        "candidate": "William J. Larkin, Jr.",
+        "party": "IND",
+        "total_votes": "2257",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "1610"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "388"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "259"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "8589",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "5440"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "2745"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "404"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "43",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "22"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "9"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "12"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "50",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "31"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "16"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "3"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "8682",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "5493"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "2770"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "419"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "113349",
+        "county_votes": [
+          {
+            "county": "Part of Orange",
+            "vote_count": "84922"
+          },
+          {
+            "county": "Part of Rockland",
+            "vote_count": "20804"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "7623"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "40",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Justin R. Wagner",
+        "party": "DEM",
+        "total_votes": "57364",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "3078"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "9300"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "44986"
+          }
+        ]
+      },
+      {
+        "candidate": "Gregory R. Ball",
+        "party": "REP",
+        "total_votes": "54651",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "4370"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "12827"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "37454"
+          }
+        ]
+      },
+      {
+        "candidate": "Gregory R. Ball",
+        "party": "CON",
+        "total_votes": "7597",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "768"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "2191"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "4638"
+          }
+        ]
+      },
+      {
+        "candidate": "Justin R. Wagner",
+        "party": "WOR",
+        "total_votes": "3516",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "280"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "943"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "2293"
+          }
+        ]
+      },
+      {
+        "candidate": "Gregory R. Ball",
+        "party": "IND",
+        "total_votes": "2743",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "325"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "743"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "1675"
+          }
+        ]
+      },
+      {
+        "candidate": "Justin R. Wagner",
+        "party": "GRN",
+        "total_votes": "1445",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "107"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "233"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "1105"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "9533",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "577"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "1638"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "7318"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "1",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "1"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "45",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "3"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "14"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "28"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "9579",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "581"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "1652"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "7346"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "136895",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "9509"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "27889"
+          },
+          {
+            "county": "Part of Westchester",
+            "vote_count": "99497"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "41",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Terry W. Gipson",
+        "party": "DEM",
+        "total_votes": "48314",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "42135"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "6179"
+          }
+        ]
+      },
+      {
+        "candidate": "Stephen M. Saland",
+        "party": "REP",
+        "total_votes": "47162",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "41652"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "5510"
+          }
+        ]
+      },
+      {
+        "candidate": "Neil A. DiCarlo",
+        "party": "CON",
+        "total_votes": "17300",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "15202"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "2098"
+          }
+        ]
+      },
+      {
+        "candidate": "Terry W. Gipson",
+        "party": "WOR",
+        "total_votes": "5248",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "4634"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "614"
+          }
+        ]
+      },
+      {
+        "candidate": "Stephen M. Saland",
+        "party": "IND",
+        "total_votes": "4304",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "3802"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "502"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "9371",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "7666"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "1705"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "9",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "9"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "37",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "31"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "6"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "9417",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "7706"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "1711"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "131745",
+        "county_votes": [
+          {
+            "county": "Part of Dutchess",
+            "vote_count": "115131"
+          },
+          {
+            "county": "Part of Putnam",
+            "vote_count": "16614"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "42",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "John J. Bonacic",
+        "party": "REP",
+        "total_votes": "53760",
+        "county_votes": [
+          {
+            "county": "Part of Delaware",
+            "vote_count": "3877"
+          },
+          {
+            "county": "Part of Orange",
+            "vote_count": "28103"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "8637"
+          }
+        ]
+      },
+      {
+        "candidate": "John J. Bonacic",
+        "party": "CON",
+        "total_votes": "8507",
+        "county_votes": [
+          {
+            "county": "Part of Delaware",
+            "vote_count": "387"
+          },
+          {
+            "county": "Part of Orange",
+            "vote_count": "4895"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "1217"
+          }
+        ]
+      },
+      {
+        "candidate": "John J. Bonacic",
+        "party": "IND",
+        "total_votes": "10611",
+        "county_votes": [
+          {
+            "county": "Part of Delaware",
+            "vote_count": "508"
+          },
+          {
+            "county": "Part of Orange",
+            "vote_count": "4664"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "2908"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "41702",
+        "county_votes": [
+          {
+            "county": "Part of Delaware",
+            "vote_count": "1391"
+          },
+          {
+            "county": "Part of Orange",
+            "vote_count": "21073"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "8272"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "99",
+        "county_votes": [
+          {
+            "county": "Part of Delaware",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Orange",
+            "vote_count": "67"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "2"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "364",
+        "county_votes": [
+          {
+            "county": "Part of Delaware",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Orange",
+            "vote_count": "122"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "192"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "42165",
+        "county_votes": [
+          {
+            "county": "Part of Delaware",
+            "vote_count": "1391"
+          },
+          {
+            "county": "Part of Orange",
+            "vote_count": "21262"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "8466"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "115043",
+        "county_votes": [
+          {
+            "county": "Part of Delaware",
+            "vote_count": "6163"
+          },
+          {
+            "county": "Part of Orange",
+            "vote_count": "58924"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "21228"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "43",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Robin Andrews",
+        "party": "DEM",
+        "total_votes": "47022",
+        "county_votes": [
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "17145"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "15866"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "608"
+          }
+        ]
+      },
+      {
+        "candidate": "Kathleen A. Marchione",
+        "party": "REP",
+        "total_votes": "51734",
+        "county_votes": [
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "20190"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "20437"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "854"
+          }
+        ]
+      },
+      {
+        "candidate": "Kathleen A. Marchione",
+        "party": "CON",
+        "total_votes": "9122",
+        "county_votes": [
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "4006"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "3125"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "218"
+          }
+        ]
+      },
+      {
+        "candidate": "Roy J. McDonald",
+        "party": "IND",
+        "total_votes": "20929",
+        "county_votes": [
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "8119"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "10429"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "392"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "9894",
+        "county_votes": [
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "4305"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "3760"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "113"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "25",
+        "county_votes": [
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "7"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "23",
+        "county_votes": [
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "16"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "9942",
+        "county_votes": [
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "4312"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "3776"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "113"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "138749",
+        "county_votes": [
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "53772"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "53633"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "2185"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "44",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Neil D. Breslin",
+        "party": "DEM",
+        "total_votes": "75168",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "66401"
+          },
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "8767"
+          }
+        ]
+      },
+      {
+        "candidate": "Neil D. Breslin",
+        "party": "WOR",
+        "total_votes": "5368",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "4523"
+          },
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "845"
+          }
+        ]
+      },
+      {
+        "candidate": "Neil D. Breslin",
+        "party": "IND",
+        "total_votes": "5120",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "4379"
+          },
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "741"
+          }
+        ]
+      },
+      {
+        "candidate": "Peter A. LaVenia, Jr.",
+        "party": "GRN",
+        "total_votes": "8796",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "7742"
+          },
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "1054"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "24212",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "20958"
+          },
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "3254"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "28",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "26"
+          },
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "2"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "248",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "248"
+          },
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "24488",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "21232"
+          },
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "3256"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "118940",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "104277"
+          },
+          {
+            "county": "Part of Rensselaer",
+            "vote_count": "14663"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "45",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Elizabeth O'C. Little",
+        "party": "REP",
+        "total_votes": "66838",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "1397"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "12205"
+          }
+        ]
+      },
+      {
+        "candidate": "Elizabeth O'C. Little",
+        "party": "CON",
+        "total_votes": "9032",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "240"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "1643"
+          }
+        ]
+      },
+      {
+        "candidate": "Elizabeth O'C. Little",
+        "party": "IND",
+        "total_votes": "11396",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "256"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "1961"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "29795",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "922"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "5208"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "28",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "358",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "4"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "47"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "30181",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "926"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "5255"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "117447",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "2819"
+          },
+          {
+            "county": "Part of Washington",
+            "vote_count": "21064"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "46",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Cecilia F. Tkaczyk",
+        "party": "DEM",
+        "total_votes": "55498",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "14683"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "6596"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "21726"
+          }
+        ]
+      },
+      {
+        "candidate": "George A. Amedore, Jr.",
+        "party": "REP",
+        "total_votes": "51312",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "11408"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "8515"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "12922"
+          }
+        ]
+      },
+      {
+        "candidate": "George A. Amedore, Jr.",
+        "party": "CON",
+        "total_votes": "8286",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "1656"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "1816"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "1936"
+          }
+        ]
+      },
+      {
+        "candidate": "Cecilia F. Tkaczyk",
+        "party": "WOR",
+        "total_votes": "5823",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "1209"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "720"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "2593"
+          }
+        ]
+      },
+      {
+        "candidate": "George A. Amedore, Jr.",
+        "party": "IND",
+        "total_votes": "3597",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "857"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "652"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "1118"
+          }
+        ]
+      },
+      {
+        "candidate": "Cecilia F. Tkaczyk",
+        "party": "GRN",
+        "total_votes": "1892",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "476"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "199"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "791"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "8024",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "1562"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "886"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "2654"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "42",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "18"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "4"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "57",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "20"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "6"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "20"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "8123",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "1600"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "892"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "2678"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "134531",
+        "county_votes": [
+          {
+            "county": "Part of Albany",
+            "vote_count": "31889"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "19390"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "43764"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "47",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Joseph A. Griffo",
+        "party": "REP",
+        "total_votes": "62864",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "48855"
+          },
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "7315"
+          }
+        ]
+      },
+      {
+        "candidate": "Joseph A. Griffo",
+        "party": "CON",
+        "total_votes": "7431",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "5623"
+          },
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "1029"
+          }
+        ]
+      },
+      {
+        "candidate": "Joseph A. Griffo",
+        "party": "IND",
+        "total_votes": "11134",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "8920"
+          },
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "1356"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "26742",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "18804"
+          },
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "5611"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "0",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "456",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "387"
+          },
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "51"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "27198",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "19191"
+          },
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "5662"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "108627",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "82589"
+          },
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "15362"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "48",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Amy M. Tresidder",
+        "party": "DEM",
+        "total_votes": "25621",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "4213"
+          }
+        ]
+      },
+      {
+        "candidate": "Patricia A. Ritchie",
+        "party": "REP",
+        "total_votes": "55029",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "11687"
+          }
+        ]
+      },
+      {
+        "candidate": "Patricia A. Ritchie",
+        "party": "CON",
+        "total_votes": "6444",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "1325"
+          }
+        ]
+      },
+      {
+        "candidate": "Amy M. Tresidder",
+        "party": "WOR",
+        "total_votes": "2849",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "372"
+          }
+        ]
+      },
+      {
+        "candidate": "Patricia A. Ritchie",
+        "party": "IND",
+        "total_votes": "4543",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "855"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "6017",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "964"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "24",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "35",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "3"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "6076",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "967"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "100562",
+        "county_votes": [
+          {
+            "county": "Part of St.Lawrence",
+            "vote_count": "19419"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "49",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Madelyn C. Thorne",
+        "party": "DEM",
+        "total_votes": "42707",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "1325"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "17158"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "18874"
+          }
+        ]
+      },
+      {
+        "candidate": "Hugh T. Farley",
+        "party": "REP",
+        "total_votes": "58013",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "2683"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "24657"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "17667"
+          }
+        ]
+      },
+      {
+        "candidate": "Hugh T. Farley",
+        "party": "CON",
+        "total_votes": "8171",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "254"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "3405"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "2674"
+          }
+        ]
+      },
+      {
+        "candidate": "Madelyn C. Thorne",
+        "party": "WOR",
+        "total_votes": "3708",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "129"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "1384"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "1621"
+          }
+        ]
+      },
+      {
+        "candidate": "Hugh T. Farley",
+        "party": "IND",
+        "total_votes": "3677",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "124"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "1449"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "1471"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "10281",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "621"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "4346"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "3635"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "53",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "1"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "53",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "29"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "23"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "10387",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "622"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "4375"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "3658"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "126663",
+        "county_votes": [
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "5137"
+          },
+          {
+            "county": "Part of Saratoga",
+            "vote_count": "52428"
+          },
+          {
+            "county": "Part of Schenectady",
+            "vote_count": "45965"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "50",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "John A. DeFrancisco",
+        "party": "REP",
+        "total_votes": "72915",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "5527"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "67388"
+          }
+        ]
+      },
+      {
+        "candidate": "John A. DeFrancisco",
+        "party": "CON",
+        "total_votes": "10532",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "991"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "9541"
+          }
+        ]
+      },
+      {
+        "candidate": "John A. DeFrancisco",
+        "party": "IND",
+        "total_votes": "11463",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "647"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "10816"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael F. Donnelly",
+        "party": "GRN",
+        "total_votes": "15591",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "1313"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "14278"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "26074",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "3125"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "22949"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "0",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "185",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "22"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "163"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "26259",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "3147"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "23112"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "136760",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "11625"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "125135"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "51",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Howard Leib",
+        "party": "DEM",
+        "total_votes": "31276",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "1424"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "1088"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "2986"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "3796"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "4925"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "3404"
+          }
+        ]
+      },
+      {
+        "candidate": "James L. Seward",
+        "party": "REP",
+        "total_votes": "64807",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "2839"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "3501"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "5810"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "12447"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "5181"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "2376"
+          }
+        ]
+      },
+      {
+        "candidate": "James L. Seward",
+        "party": "CON",
+        "total_votes": "6261",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "360"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "268"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "582"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "1044"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "468"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "322"
+          }
+        ]
+      },
+      {
+        "candidate": "Howard Leib",
+        "party": "WOR",
+        "total_votes": "3691",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "132"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "124"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "347"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "299"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "788"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "480"
+          }
+        ]
+      },
+      {
+        "candidate": "James L. Seward",
+        "party": "IND",
+        "total_votes": "5360",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "173"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "319"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "401"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "1001"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "427"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "202"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "7987",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "603"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "382"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "812"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "1539"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "672"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "569"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "29",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "3"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "11"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "59",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "1"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "5"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "3"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "6"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "8075",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "604"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "390"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "812"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "1553"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "672"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "575"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "119470",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "5532"
+          },
+          {
+            "county": "Part of Chenango",
+            "vote_count": "5690"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "10938"
+          },
+          {
+            "county": "Part of Herkimer",
+            "vote_count": "20140"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "12461"
+          },
+          {
+            "county": "Part of Ulster",
+            "vote_count": "7359"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "52",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "John P. Orzel",
+        "party": "DEM",
+        "total_votes": "37856",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "3187"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "351"
+          }
+        ]
+      },
+      {
+        "candidate": "Thomas W. Libous",
+        "party": "REP",
+        "total_votes": "62875",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "8217"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "1106"
+          }
+        ]
+      },
+      {
+        "candidate": "Thomas W. Libous",
+        "party": "CON",
+        "total_votes": "4775",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "644"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "80"
+          }
+        ]
+      },
+      {
+        "candidate": "Barrett Esworthy",
+        "party": "WOR",
+        "total_votes": "2798",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "304"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "34"
+          }
+        ]
+      },
+      {
+        "candidate": "Thomas W. Libous",
+        "party": "IND",
+        "total_votes": "4262",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "691"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "62"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "6788",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "715"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "104"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "53",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "6"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "41",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "7"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "6882",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "728"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "104"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "119448",
+        "county_votes": [
+          {
+            "county": "Part of Chenango",
+            "vote_count": "13771"
+          },
+          {
+            "county": "Part of Delaware",
+            "vote_count": "1737"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "53",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "David J. Valesky",
+        "party": "DEM",
+        "total_votes": "68897",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "2662"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "51544"
+          }
+        ]
+      },
+      {
+        "candidate": "David J. Valesky",
+        "party": "WOR",
+        "total_votes": "7711",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "448"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "5314"
+          }
+        ]
+      },
+      {
+        "candidate": "David J. Valesky",
+        "party": "IND",
+        "total_votes": "7821",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "430"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "4965"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "28776",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "1521"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "18259"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "77",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "507",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "14"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "360"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "29360",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "1535"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "18619"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "113789",
+        "county_votes": [
+          {
+            "county": "Part of Oneida",
+            "vote_count": "5075"
+          },
+          {
+            "county": "Part of Onondaga",
+            "vote_count": "80442"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "54",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Michael F. Nozzolio",
+        "party": "REP",
+        "total_votes": "73204",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "8288"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "12567"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "18555"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "2265"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael F. Nozzolio",
+        "party": "CON",
+        "total_votes": "12024",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "1432"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "2085"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "2671"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "198"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael F. Nozzolio",
+        "party": "IND",
+        "total_votes": "11074",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "1392"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "1919"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "2927"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "542"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "28501",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "3324"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "5929"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "7467"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "2325"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "89",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "63"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "7"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "379",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "38"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "70"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "96"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "28969",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "3362"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "6062"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "7570"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "2325"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "125271",
+        "county_votes": [
+          {
+            "county": "Part of Cayuga",
+            "vote_count": "14474"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "22633"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "31723"
+          },
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "5330"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "55",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Ted O'Brien",
+        "party": "DEM",
+        "total_votes": "64973",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "59745"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "5228"
+          }
+        ]
+      },
+      {
+        "candidate": "Sean T. Hanna",
+        "party": "REP",
+        "total_votes": "53643",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "45570"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "8073"
+          }
+        ]
+      },
+      {
+        "candidate": "Sean T. Hanna",
+        "party": "CON",
+        "total_votes": "8133",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "6901"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "1232"
+          }
+        ]
+      },
+      {
+        "candidate": "Ted O'Brien",
+        "party": "WOR",
+        "total_votes": "5047",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "4531"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "516"
+          }
+        ]
+      },
+      {
+        "candidate": "Sean T. Hanna",
+        "party": "IND",
+        "total_votes": "2796",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "2516"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "280"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "9473",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "8329"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "1144"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "587",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "586"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "1"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "130",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "123"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "7"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "10190",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "9038"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "1152"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "144782",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "128301"
+          },
+          {
+            "county": "Part of Ontario",
+            "vote_count": "16481"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "56",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Joseph E. Robach",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "57687"
+          }
+        ]
+      },
+      {
+        "candidate": "Joseph E. Robach",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "10652"
+          }
+        ]
+      },
+      {
+        "candidate": "Joseph E. Robach",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "11233"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "38889"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "448"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "549"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "39886"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "119458"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "57",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Catharine M. Young",
+        "party": "REP",
+        "total_votes": "71511",
+        "county_votes": [
+          {
+            "county": "Part of Livingston",
+            "vote_count": "7099"
+          }
+        ]
+      },
+      {
+        "candidate": "Catharine M. Young",
+        "party": "CON",
+        "total_votes": "10136",
+        "county_votes": [
+          {
+            "county": "Part of Livingston",
+            "vote_count": "846"
+          }
+        ]
+      },
+      {
+        "candidate": "Catharine M. Young",
+        "party": "IND",
+        "total_votes": "11607",
+        "county_votes": [
+          {
+            "county": "Part of Livingston",
+            "vote_count": "1110"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "18746",
+        "county_votes": [
+          {
+            "county": "Part of Livingston",
+            "vote_count": "2897"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "5",
+        "county_votes": [
+          {
+            "county": "Part of Livingston",
+            "vote_count": "1"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "305",
+        "county_votes": [
+          {
+            "county": "Part of Livingston",
+            "vote_count": "18"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "19056",
+        "county_votes": [
+          {
+            "county": "Part of Livingston",
+            "vote_count": "2916"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "112310",
+        "county_votes": [
+          {
+            "county": "Part of Livingston",
+            "vote_count": "11971"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "58",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Thomas F. O'Mara",
+        "party": "REP",
+        "total_votes": "59417",
+        "county_votes": [
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "5550"
+          }
+        ]
+      },
+      {
+        "candidate": "Thomas F. O'Mara",
+        "party": "CON",
+        "total_votes": "6475",
+        "county_votes": [
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "505"
+          }
+        ]
+      },
+      {
+        "candidate": "Thomas F. O'Mara",
+        "party": "IND",
+        "total_votes": "8566",
+        "county_votes": [
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "2006"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "38751",
+        "county_votes": [
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "13686"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "27",
+        "county_votes": [
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "153",
+        "county_votes": [
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "38931",
+        "county_votes": [
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "13686"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "113389",
+        "county_votes": [
+          {
+            "county": "Part of Tompkins",
+            "vote_count": "21747"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "59",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Patrick M. Gallivan",
+        "party": "REP",
+        "total_votes": "71907",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "45571"
+          },
+          {
+            "county": "Part of Livingston",
+            "vote_count": "8053"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "8490"
+          }
+        ]
+      },
+      {
+        "candidate": "Patrick M. Gallivan",
+        "party": "CON",
+        "total_votes": "13404",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "8863"
+          },
+          {
+            "county": "Part of Livingston",
+            "vote_count": "1310"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "1667"
+          }
+        ]
+      },
+      {
+        "candidate": "Patrick M. Gallivan",
+        "party": "IND",
+        "total_votes": "14158",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "9861"
+          },
+          {
+            "county": "Part of Livingston",
+            "vote_count": "1094"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "1849"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "37794",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "22519"
+          },
+          {
+            "county": "Part of Livingston",
+            "vote_count": "4556"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "7048"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "74",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Livingston",
+            "vote_count": "4"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "64"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "109",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Livingston",
+            "vote_count": "22"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "59"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "37977",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "22519"
+          },
+          {
+            "county": "Part of Livingston",
+            "vote_count": "4582"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "7171"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "137446",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "86814"
+          },
+          {
+            "county": "Part of Livingston",
+            "vote_count": "15039"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "19177"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "60",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Michael L. Amodeo",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "45140"
+          }
+        ]
+      },
+      {
+        "candidate": "Mark J. Grisanti",
+        "party": "REP",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "56774"
+          }
+        ]
+      },
+      {
+        "candidate": "Charles M. Swanick",
+        "party": "CON",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "15027"
+          }
+        ]
+      },
+      {
+        "candidate": "Gregory L. Davis",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "3078"
+          }
+        ]
+      },
+      {
+        "candidate": "Mark J. Grisanti",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "6909"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "7743"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "7743"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "134671"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "61",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Justin M. Rooney",
+        "party": "DEM",
+        "total_votes": "46990",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "25174"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "15890"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael H. Ranzenhofer",
+        "party": "REP",
+        "total_votes": "60866",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "39380"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "8118"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael H. Ranzenhofer",
+        "party": "CON",
+        "total_votes": "8492",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "4836"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "1679"
+          }
+        ]
+      },
+      {
+        "candidate": "Justin M. Rooney",
+        "party": "WOR",
+        "total_votes": "3899",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "2079"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "1100"
+          }
+        ]
+      },
+      {
+        "candidate": "Michael H. Ranzenhofer",
+        "party": "IND",
+        "total_votes": "3745",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "2582"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "500"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "11782",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "5626"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "3866"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "131",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "122"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "31",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "0"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "21"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "11944",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "5626"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "4009"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "135936",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "79677"
+          },
+          {
+            "county": "Part of Monroe",
+            "vote_count": "31296"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "62",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Amy Hope Witryol",
+        "party": "DEM",
+        "total_votes": "38133",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "4892"
+          }
+        ]
+      },
+      {
+        "candidate": "George D. Maziarz",
+        "party": "REP",
+        "total_votes": "57451",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "6172"
+          }
+        ]
+      },
+      {
+        "candidate": "George D. Maziarz",
+        "party": "CON",
+        "total_votes": "8112",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "1272"
+          }
+        ]
+      },
+      {
+        "candidate": "Amy Hope Witryol",
+        "party": "WOR",
+        "total_votes": "4375",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "575"
+          }
+        ]
+      },
+      {
+        "candidate": "George D. Maziarz",
+        "party": "IND",
+        "total_votes": "3796",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "290"
+          }
+        ]
+      },
+      {
+        "candidate": "Jonathon B. Benedict",
+        "party": "GRN",
+        "total_votes": "1127",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "173"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "total_votes": "6076",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "1144"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "total_votes": "72",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "47"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "total_votes": "47",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "7"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "total_votes": "6195",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "1198"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "total_votes": "119189",
+        "county_votes": [
+          {
+            "county": "Part of Monroe",
+            "vote_count": "14572"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "election",
+    "record_date": "March 20, 2013",
+    "election_date": "Nov. 6, 2012",
+    "district": "63",
+    "chamber": "SENATE",
+    "votes": [
+      {
+        "candidate": "Timothy M. Kennedy",
+        "party": "DEM",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "71662"
+          }
+        ]
+      },
+      {
+        "candidate": "Timothy M. Kennedy",
+        "party": "WOR",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "6361"
+          }
+        ]
+      },
+      {
+        "candidate": "Timothy M. Kennedy",
+        "party": "IND",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "4435"
+          }
+        ]
+      },
+      {
+        "candidate": " Blank",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "21532"
+          }
+        ]
+      },
+      {
+        "candidate": " Void",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "0"
+          }
+        ]
+      },
+      {
+        "candidate": " Scattering",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "10991"
+          }
+        ]
+      },
+      {
+        "candidate": "BVS Subtotal",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "32523"
+          }
+        ]
+      },
+      {
+        "candidate": " Total",
+        "party": "",
+        "county_votes": [
+          {
+            "county": "Part of Erie",
+            "vote_count": "114981"
+          }
+        ]
+      }
+    ]
+  }
+]

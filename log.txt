@@ -1,0 +1,198 @@
+Running app 
+-file_to_xml 
+-xml_to_list 
+-clean_list 
+-break_list_into_districts 
+-break_districts_into_rows 
+-align_rows_of_each_district 
+
+ Transforming: 1st SENATE DISTRICT
+ District:1
+ Chamber: SENATE
+ Transforming: 2nd SENATE DISTRICT
+ District:2
+ Chamber: SENATE
+ Transforming: 3rd SENATE DISTRICT
+ District:3
+ Chamber: SENATE
+ Transforming: 4th SENATE DISTRICT
+ District:4
+ Chamber: SENATE
+ Transforming: 5th SENATE DISTRICT
+ District:5
+ Chamber: SENATE
+ Transforming: 6th SENATE DISTRICT
+ District:6
+ Chamber: SENATE
+ Transforming: 7th SENATE DISTRICT
+ District:7
+ Chamber: SENATE
+ Transforming: 8th SENATE DISTRICT
+ District:8
+ Chamber: SENATE
+ Transforming: 9th SENATE DISTRICT
+ District:9
+ Chamber: SENATE
+ Transforming: 10th SENATE DISTRICT
+ District:10
+ Chamber: SENATE
+ Transforming: 11th SENATE DISTRICT
+ District:11
+ Chamber: SENATE
+ Transforming: 12th SENATE DISTRICT
+ District:12
+ Chamber: SENATE
+ Transforming: 13th SENATE DISTRICT
+ District:13
+ Chamber: SENATE
+ Transforming: 14th SENATE DISTRICT
+ District:14
+ Chamber: SENATE
+ Transforming: 15th SENATE DISTRICT
+ District:15
+ Chamber: SENATE
+ Transforming: 16th SENATE DISTRICT
+ District:16
+ Chamber: SENATE
+ Transforming: 17th SENATE DISTRICT
+ District:17
+ Chamber: SENATE
+ Transforming: 18th SENATE DISTRICT
+ District:18
+ Chamber: SENATE
+ Transforming: 19th SENATE DISTRICT
+ District:19
+ Chamber: SENATE
+ Transforming: 20th SENATE DISTRICT
+ District:20
+ Chamber: SENATE
+ Transforming: 21st SENATE DISTRICT
+ District:21
+ Chamber: SENATE
+ Transforming: 22nd SENATE DISTRICT
+ District:22
+ Chamber: SENATE
+ Transforming: 23rd SENATE DISTRICT
+ District:23
+ Chamber: SENATE
+ Transforming: 24th SENATE DISTRICT
+ District:24
+ Chamber: SENATE
+ Transforming: 25th SENATE DISTRICT
+ District:25
+ Chamber: SENATE
+ Transforming: 26th SENATE DISTRICT
+ District:26
+ Chamber: SENATE
+ Transforming: 27th SENATE DISTRICT
+ District:27
+ Chamber: SENATE
+ Transforming: 28th SENATE DISTRICT
+ District:28
+ Chamber: SENATE
+ Transforming: 29th SENATE DISTRICT
+ District:29
+ Chamber: SENATE
+ Transforming: 30th SENATE DISTRICT
+ District:30
+ Chamber: SENATE
+ Transforming: 31st SENATE DISTRICT
+ District:31
+ Chamber: SENATE
+ Transforming: 32nd SENATE DISTRICT
+ District:32
+ Chamber: SENATE
+ Transforming: 33rd SENATE DISTRICT
+ District:33
+ Chamber: SENATE
+ Transforming: 34th SENATE DISTRICT
+ District:34
+ Chamber: SENATE
+ Transforming: 35th SENATE DISTRICT
+ District:35
+ Chamber: SENATE
+ Transforming: 36th SENATE DISTRICT
+ District:36
+ Chamber: SENATE
+ Transforming: 37th SENATE DISTRICT
+ District:37
+ Chamber: SENATE
+ Transforming: 38th SENATE DISTRICT
+ District:38
+ Chamber: SENATE
+ Transforming: 39th SENATE DISTRICT
+ District:39
+ Chamber: SENATE
+ Transforming: 40th SENATE DISTRICT
+ District:40
+ Chamber: SENATE
+ Transforming: 41st SENATE DISTRICT
+ District:41
+ Chamber: SENATE
+ Transforming: 42nd SENATE DISTRICT
+ District:42
+ Chamber: SENATE
+ Transforming: 43rd SENATE DISTRICT
+ District:43
+ Chamber: SENATE
+ Transforming: 44th SENATE DISTRICT
+ District:44
+ Chamber: SENATE
+ Transforming: 45th SENATE DISTRICT
+ District:45
+ Chamber: SENATE
+ Transforming: 46th SENATE DISTRICT
+ District:46
+ Chamber: SENATE
+ Transforming: 47th SENATE DISTRICT
+ District:47
+ Chamber: SENATE
+ Transforming: 48th SENATE DISTRICT
+ District:48
+ Chamber: SENATE
+ Transforming: 49th SENATE DISTRICT
+ District:49
+ Chamber: SENATE
+ Transforming: 50th SENATE DISTRICT
+ District:50
+ Chamber: SENATE
+ Transforming: 51st SENATE DISTRICT
+ District:51
+ Chamber: SENATE
+ Transforming: 52nd SENATE DISTRICT
+ District:52
+ Chamber: SENATE
+ Transforming: 53rd SENATE DISTRICT
+ District:53
+ Chamber: SENATE
+ Transforming: 54th SENATE DISTRICT
+ District:54
+ Chamber: SENATE
+ Transforming: 55th SENATE DISTRICT
+ District:55
+ Chamber: SENATE
+ Transforming: 56th SENATE DISTRICT
+ District:56
+ Chamber: SENATE
+ Transforming: 57th SENATE DISTRICT
+ District:57
+ Chamber: SENATE
+ Transforming: 58th SENATE DISTRICT
+ District:58
+ Chamber: SENATE
+ Transforming: 59th SENATE DISTRICT
+ District:59
+ Chamber: SENATE
+ Transforming: 60th SENATE DISTRICT
+ District:60
+ Chamber: SENATE
+ Transforming: 61st SENATE DISTRICT
+ District:61
+ Chamber: SENATE
+ Transforming: 62nd SENATE DISTRICT
+ District:62
+ Chamber: SENATE
+ Transforming: 63rd SENATE DISTRICT
+ District:63
+ Chamber: SENATE-transform_rows_of_each_district
+ Completed.
